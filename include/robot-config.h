@@ -11,6 +11,7 @@ extern motor Center;
 extern motor LeftLift;
 extern motor RightLift;
 extern controller Controller1;
+extern motor Claw;
 
 /**
  * Used to initialize code/tasks/devices added using tools in VEXcode Text.
